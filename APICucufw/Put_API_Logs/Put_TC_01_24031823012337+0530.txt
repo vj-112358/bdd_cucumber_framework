@@ -1,0 +1,15 @@
+Scenario Name: Trigger the PUT API request with valid string Request Body Parameters
+Endpoint is :
+https://reqres.in/api/users/2
+
+Request body is :
+{
+    "name": "morpheus",
+    "job": "leader"
+}
+
+Response header date is : 
+Sun, 17 Mar 2024 19:53:37 GMT
+
+Response body is : 
+{"name":"morpheus","job":"leader","updatedAt":"2024-03-17T19:53:37.506Z"}
