@@ -1,0 +1,15 @@
+Scenario Name: Trigger the DDT Post API request with valid request Parameters
+Endpoint is :
+https://reqres.in/api/users
+
+Request body is :
+{
+    "name": "null",
+    "job": "null"
+}
+
+Response header date is : 
+Sun, 17 Mar 2024 19:53:34 GMT
+
+Response body is : 
+{"name":"null","job":"null","id":"759","createdAt":"2024-03-17T19:53:34.645Z"}

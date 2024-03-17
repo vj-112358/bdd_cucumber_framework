@@ -1,0 +1,11 @@
+Scenario Name: Trigger the DEL API request with valid string Request Body Parameters
+Endpoint is :
+https://reqres.in/api/users/2
+
+Request body is :
+/2
+
+Response header date is : 
+Sun, 17 Mar 2024 19:53:35 GMT
+
+Response body is : 
